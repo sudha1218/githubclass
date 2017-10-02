@@ -1,3 +1,3 @@
 # githubclass
 
-this is a gitclass branch
+This is a gitclass branch
